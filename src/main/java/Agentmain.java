@@ -13,7 +13,6 @@ public class Agentmain {
 
         Class<?>[] loadedClasses = inst.getAllLoadedClasses();
         for (Class<?> loadedClass : loadedClasses) {
-//            System.out.println("Loaded class: " + loadedClass.getName());
             if (loadedClass.getName().contains("com.nilknow.simplestspringboot.HiController")) {
                 System.out.println("Loaded class: " + loadedClass.getName());
                 MyTransformer transformer = new MyTransformer("C:\\Users\\nilknow\\IdeaProjects\\nilknow-blog\\simplest-spring-boot\\build\\classes\\java\\main\\com\\nilknow\\simplestspringboot\\HiController.class");

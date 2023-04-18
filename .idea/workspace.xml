@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="823c5e5a-3be1-49c1-b0af-5c9bf082098f" name="Changes" comment="Java class hot reloader">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ClassNameTransformer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" />
+    <list default="true" id="823c5e5a-3be1-49c1-b0af-5c9bf082098f" name="Changes" comment="Java class hot reload">
+      <change beforePath="$PROJECT_DIR$/src/main/java/AttachAgent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AttachAgent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +91,7 @@
       <workItem from="1681652457333" duration="1545000" />
       <workItem from="1681654012218" duration="4462000" />
       <workItem from="1681704926273" duration="5241000" />
-      <workItem from="1681829141533" duration="3470000" />
+      <workItem from="1681829141533" duration="3770000" />
     </task>
     <task id="LOCAL-00001" summary="Java class hot reloader">
       <created>1681835173441</created>
@@ -102,16 +100,49 @@
       <option name="project" value="LOCAL" />
       <updated>1681835173441</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Java class hot reload">
+      <created>1681835255131</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681835255131</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Java class hot reload">
+      <created>1681835284996</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681835284996</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Java class hot reload">
+      <created>1681835349001</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681835349001</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Java class hot reloader" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java class hot reloader" />
+    <MESSAGE value="Java class hot reload" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java class hot reload" />
   </component>
 </project>

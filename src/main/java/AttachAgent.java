@@ -16,8 +16,5 @@ public class AttachAgent {
             attach.loadAgent("C:\\Users\\nilknow\\IdeaProjects\\nilknow-blog\\nilknow-hotreload\\target\\nilknow-hotreload-1.0-SNAPSHOT-jar-with-dependencies.jar");
             attach.detach();
         }
-//        long pid = ManagementFactory.getRuntimeMXBean().getPid();
-//        VirtualMachine vm = VirtualMachine.attach(String.valueOf(pid));
-//        System.out.println(vm.id());
     }
 }
